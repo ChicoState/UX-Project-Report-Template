@@ -1,8 +1,8 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
 # !!!Project Name!!!
 
-!!!Brief introduction to the project's vision!!!
+!!!Brief introduction to the project and the problem it is intended to solve!!!
 
 ## UX Team Members
 
@@ -13,22 +13,12 @@
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
-* [Wireframes](#) - Coming soon!
-* [Prototype](#) - Coming soon!
+* [Personas and Scenarios](personas/)
+* [Sketches and Diagrams](sketches/)
+* [Wireframes](#) - Coming soon (phase II)!
+* [Prototype](#) - Coming soon (phase III)!
 
-# Phase 1: Requirements Gathering
-
-**Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
-[Full phase 1 report](requirements/)
-
-# Phase 2: Interaction Design
+# Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
 
@@ -37,9 +27,9 @@
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
-[Full phase 2 report](design/)
+[Full phase I report](phaseI/)
 
-# Phase 3: Usability Evaluation
+# Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
 
@@ -48,4 +38,15 @@
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
-[Full phase 3 report](evaluation/)
+[Full phase II report](phaseII/)
+
+# Phase III: Prototypes and User Testing
+
+**Executive Summary**
+
+* !!!In a bullet-list, provide a summary that highlights...!!!
+* !!!What you've done during this phase...!!!
+* !!!and what the significance of it is...!!!
+* !!!as an executive would understand.!!!
+
+[Full phase III report](phaseIII/)
